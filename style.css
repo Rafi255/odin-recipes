@@ -1,0 +1,40 @@
+html {
+    background-color: antiquewhite
+}
+
+.description_main {
+    text-align: left;
+    margin
+
+}
+
+
+.header_main {
+    text-align: center;
+}
+
+h2 {
+    border-style: solid ;
+    border-radius: 20px;
+    border-width: 1px;
+    
+}
+
+.content {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.item {
+    margin: 10px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;  
+    border-radius: 20px;
+    text-align: center;
+}
